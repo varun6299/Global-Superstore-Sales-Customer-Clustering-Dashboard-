@@ -2,8 +2,8 @@
 A python cum Tableau project involving use of clustering to identify customer segments and create dashboards to analyze sales and customers (including new clusters)
 
 ## Tasks- We have a dataset pertaining to the sales of an online global superstore. We are going to perform the following tasks:
-    1.Identify clusters of Customers using Unsupervised Machine Learning Algorithms.
-    2.Create Dashboards in Tableau to visualize and analyse a) The sales performance of the store & b) customers and the new clusters groups.
+1.Identify clusters of Customers using Unsupervised Machine Learning Algorithms.
+2.Create Dashboards in Tableau to visualize and analyse a) The sales performance of the store & b) customers and the new clusters groups.
     
 The project will involve the use of the following tools and skills - 
 1. Python
