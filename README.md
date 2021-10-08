@@ -51,3 +51,7 @@ A. Sales Dashboard -
 The following dashboards were finally created
 
 # SALES DASHBOARD
+![HomePage](DashboardPics/SalesDashboard.png)
+
+# CUSTOMER SEGMENTATION/CLUSTER DASHBOARD
+![HomePage](DashboardPics/CustomerClustering.png)
