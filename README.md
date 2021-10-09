@@ -34,8 +34,11 @@ The project will involve the use of the following tools and skills -
 4. All features were scaled for uniform scales required for optimum clustering.
 5. K-means and Agglomerative clustering were used to find optimum no. of clusters for customers
 6. Cluster quality were evaluated using inertia, silhoutte scores, elbow plots, dendograms, etc.
-7. Optimum no. of clusters identified were 2, with a silhoutte score of around 0.54 for both K-means and Agglomerative clustering.
-8. New cluster labels were added to dataset.
+7. Optimum no. of clusters identified were 2, with a silhoutte score of around 0.30 for K-means and 0.25 for Agglomerative clustering.
+# Kmeans Clusters
+![HomePage](Images/Kmeans.png)
+
+9. New cluster labels were added to dataset.
 
 ### Step 3 - Transferring data to MySQL
 1. The sql alchemy package was imported to create a connection object required to connect python to mysql server.
@@ -51,7 +54,13 @@ A. Sales Dashboard -
 The following dashboards were finally created
 
 # SALES DASHBOARD
-![HomePage](DashboardPics/SalesDashboard.png)
+![HomePage](Images/SalesDashboard.png)
 
 # CUSTOMER SEGMENTATION/CLUSTER DASHBOARD
-![HomePage](DashboardPics/CustomerClustering.png)
+![HomePage](Images/CustomerClustering.png)
+
+# CLUSTER 0
+![HomePage](Images/CustomerClustering.png)
+
+# CLUSTER 1
+![HomePage](Images/CustomerClustering.png)
