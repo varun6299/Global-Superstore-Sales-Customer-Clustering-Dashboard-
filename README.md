@@ -60,7 +60,7 @@ The following dashboards were finally created
 ![HomePage](Images/CustomerClustering.png)
 
 # CLUSTER 0
-![HomePage](Images/CustomerClustering.png)
+![HomePage](Images/Cluster0.png)
 
 # CLUSTER 1
-![HomePage](Images/CustomerClustering.png)
+![HomePage](Images/Cluster1.png)
